@@ -1,13 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4ff48bd-f96f-495c-86cb-9d9091da0e72" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1azwLkwEK3SAh11j4lyLFN4IQyL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/pyar" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pyar" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4ff48bd-f96f-495c-86cb-9d9091da0e72" name="Default Changelist" comment="" />
+      <created>1587751676146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587751676146</updated>
+    </task>
+    <task id="LOCAL-00001" summary="New homepage">
+      <created>1587751731735</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587751731735</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New homepage" />
+    <option name="LAST_COMMIT_MESSAGE" value="New homepage" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="77" y="61" width="1833" height="1019" key="CommitChangelistDialog2" timestamp="1587751731427">
+      <screen x="77" y="61" width="1843" height="1019" />
+    </state>
+    <state x="77" y="61" width="1833" height="1019" key="CommitChangelistDialog2/77.61.1843.1019@77.61.1843.1019" timestamp="1587751731427" />
+    <state x="193" y="61" width="1600" height="1019" key="Vcs.Push.Dialog.v2" timestamp="1587751755186">
+      <screen x="77" y="61" width="1843" height="1019" />
+    </state>
+    <state x="193" y="61" width="1600" height="1019" key="Vcs.Push.Dialog.v2/77.61.1843.1019@77.61.1843.1019" timestamp="1587751755186" />
   </component>
 </project>

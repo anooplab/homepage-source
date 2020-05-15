@@ -1,5 +1,4 @@
-baseURL = "http://www.chemistry.iitkgp.ac.in_~anoop_new"
-relativeurls = true
+baseURL = "http://www.chemistry.iitkgp.ac.in_~anoop"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Anoop Ayyappan"

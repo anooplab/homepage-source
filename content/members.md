@@ -15,9 +15,9 @@ draft: false
 *   Moumita Banerjee
 *   Pratik Sarkar
 
-![Group Photo](http://chemistry.iitkgp.ac.in/~anoop/images/Group_photo_2.jpg)
+![Group Photo](../images/Group_photo_2.jpg)
 
-![Group Photo](http://chemistry.iitkgp.ac.in/~anoop/images/group.jpg)
+![Group Photo](../images/group.jpg)
 
 ## MSc Students
 

@@ -4,7 +4,7 @@ date: 2020-04-23T22:33:57+05:30
 draft: false
 ---
 
-![Me](../images/dm.png)
+![Me](../images/anoop.png)
 
 # Online Profiles
 
@@ -14,6 +14,12 @@ draft: false
 *    [Scopus author ID](https://www.scopus.com/authid/detail.uri?authorId=6508191130)
 *    [Google Scholar](https://scholar.google.com/citations?user=QgKaomgAAAAJ&hl=en&oi=ao)
 *    [ResearchGate](https://www.researchgate.net/profile/Anakuthil_Anoop/publications)
+
+# Membership in Professional bodies
+
+*    National Academy of Sciences India (NASI)
+*    Chemical Resarch Society of India (CRSI)
+*    World Association of Theoretical and Computational Chemists (WATOC)
 
 # Professional Experience
 
@@ -28,3 +34,7 @@ draft: false
 *    1999-2005 - PhD with Prof. E. D. Jemmis at the University of Hyderabad, India. Topic: Computational studies on Three-membered ring systems containing B, Al and Ga; Carborynes and their metal complexes; Agostic interactions.
 *    1996-1998 - MSc Chemistry at the School of Chemical Sciences, Mahatma Gandhi University, Kottayam, Kerala.
 *    1993-1996 - BSc (Chemistry) at the Nirmala College, Muvattupuzha, Kerala
+*    1991-1993 - Pre-Degree at the Nirmala College, Muvattupuzha, Kerala
+*    1988-1991 - High School at the St. Sebastians High School, Anicade, Muvattupuzha, Kerala
+*    1985-1998 - U. P. School at the Teachers Training Insitute, Muvattupuzha, Kerala
+*    1981-1995 - L. P. School at the Little Flower L. P. School, Muvattupuzha, Kerala

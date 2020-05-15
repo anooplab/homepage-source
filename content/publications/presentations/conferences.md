@@ -1,7 +1,7 @@
 ---
 title: "Conference Presentations"
 date: 2020-04-23T23:42:04+05:30
-draft: true
+draft: false
 ---
 
 -   Recent Trends in Chemistry RTC2020, NIT Calicut Feb 26-29, 2020

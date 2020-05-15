@@ -1,9 +1,11 @@
 ---
 title: "General talks/Workshops"
 date: 2020-04-23T23:42:04+05:30
-draft: true
+draft: false
 ---
 
+-   Organised TEQIP workshop on "Applications of Computers in Chemistry"
+    in March 2020 jointly with Dr. S. Mishra.
 -   Application of Computational Methods in Modern Sciences, Bajkul M
     Mahavidyalaya, 27 September 2019
 -   Role of DFT in Studying Electronic Structure and Reaction Pathway,
