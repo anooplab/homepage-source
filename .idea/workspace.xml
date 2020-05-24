@@ -18,7 +18,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pyar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="SvnConfiguration">
@@ -39,21 +39,31 @@
       <option name="project" value="LOCAL" />
       <updated>1587751731735</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Some updates">
+      <created>1589556230413</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589556230413</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New homepage" />
-    <option name="LAST_COMMIT_MESSAGE" value="New homepage" />
+    <MESSAGE value="Some updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some updates" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="77" y="61" width="1833" height="1019" key="CommitChangelistDialog2" timestamp="1587751731427">
-      <screen x="77" y="61" width="1843" height="1019" />
+    <state x="38" y="27" width="1833" height="1019" key="CommitChangelistDialog2" timestamp="1589556229477">
+      <screen x="38" y="27" width="921" height="512" />
     </state>
+    <state x="38" y="27" key="CommitChangelistDialog2/38.27.921.512@38.27.921.512" timestamp="1589556229477" />
     <state x="77" y="61" width="1833" height="1019" key="CommitChangelistDialog2/77.61.1843.1019@77.61.1843.1019" timestamp="1587751731427" />
-    <state x="193" y="61" width="1600" height="1019" key="Vcs.Push.Dialog.v2" timestamp="1587751755186">
-      <screen x="77" y="61" width="1843" height="1019" />
+    <state x="96" y="27" width="1600" height="1019" key="Vcs.Push.Dialog.v2" timestamp="1589556234603">
+      <screen x="38" y="27" width="921" height="512" />
     </state>
+    <state x="96" y="27" key="Vcs.Push.Dialog.v2/38.27.921.512@38.27.921.512" timestamp="1589556234603" />
     <state x="193" y="61" width="1600" height="1019" key="Vcs.Push.Dialog.v2/77.61.1843.1019@77.61.1843.1019" timestamp="1587751755186" />
   </component>
 </project>
