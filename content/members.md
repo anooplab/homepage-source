@@ -7,7 +7,6 @@ images:
 
 ## PhD Students
 
-*   Eshani Das
 *   Subhasis Dey
 *   Lazumla Sherpa
 *   Maya Khatun
@@ -22,8 +21,8 @@ images:
 
 ## MSc Students
 
-*   Aurodeep Panda
-*   Kamal Singh Nayal
+*   Ayusman Chiranjivi
+*   Sayan Paul
 
 ## Former Members
 
@@ -33,10 +32,13 @@ images:
 *   Dr. Subhajit Mandal
 *   Dr. Surajit Nandi
 *   Dr. Davaluri Yogeswara Rao
+*   Dr. Eshani Das
 *   Tanwi Debnath
 
 ### MSc
 
+*   Aurodeep Panda
+*   Kamal Singh Nayal
 *   Rajat S. Majumder
 *   Shubham Bhatt
 *   Debankur Bhattacharyya
