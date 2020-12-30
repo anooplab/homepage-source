@@ -8,8 +8,8 @@ draft: false
     Responsive Fluorescent Photoremovable Protecting Group: Sequential
     Release of the Same or Different Carboxylic Acids" Antara Sikder, 
     Moumita Banerjee, Tara Singha, Saugat Mondal, P. K. Datta, Anakuthil 
-    Anoop, and N. D. Pradeep Singh, [*Organic Letters*, **2020**, XXXX, 
-    XXX, XXX-XXX](https://doi.org/10.1021/acs.orglett.0c02549)
+    Anoop, and N. D. Pradeep Singh, [*Organic Letters*, **2020**, 22, 
+    17, 6998–7002](https://doi.org/10.1021/acs.orglett.0c02549)
 
 1.  “Mononuclear Ruthenium-Based Water Oxidation Catalyst Supported by
     Anionic, Redox-Non-Innocent Ligand: Heterometallic O–O Bond
