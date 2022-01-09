@@ -1,6 +1,6 @@
 ---
 title: "Research Interests"
-date: 2020-04-24T21:36:09+05:30
+date: 2021-02-11T21:36:09+05:30
 draft: false
 ---
 
@@ -10,5 +10,5 @@ Topics of current interest:
 *    Structure of aggregates and nanoclusters
 *    Software development for automated identification of: a) reaction
      paths, and complex structures.
-*    Reaction Mechanism
 
+[Publications](http://www.chemistry.iitkgp.ac.in/~anoop/publications/journal_artcles/)

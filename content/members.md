@@ -14,6 +14,10 @@ images:
 *   Sunanda Panda
 *   Moumita Banerjee
 *   Pratik Sarkar
+*   Sandip Giri
+*   Arpita Poddar (Jointly with Prof. P. K. Charraraj)
+*   Sayan Paul
+*   Bhrigu Chakraborty (Jointly with Prof. P. K. Charraraj)
 
 ![Group Photo](../images/Group_photo_2.jpg)
 
@@ -21,8 +25,6 @@ images:
 
 ## MSc Students
 
-*   Ayusman Chiranjivi
-*   Sayan Paul
 
 ## Former Members
 
@@ -37,6 +39,8 @@ images:
 
 ### MSc
 
+*   Ayusman Chiranjivi
+*   Sayan Paul
 *   Aurodeep Panda
 *   Kamal Singh Nayal
 *   Rajat S. Majumder

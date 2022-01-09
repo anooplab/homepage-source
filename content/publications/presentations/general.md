@@ -4,6 +4,22 @@ date: 2020-04-23T23:42:04+05:30
 draft: false
 ---
 
+-   Workshop in Chemistry for PG Students and Teachers organised by Calicut
+    Chemistry Collective, 27 November 2021.
+-   Computational Modeling in Chemistry, Biology and Materials"- Making it
+    Mainstream, organized by Cochin University fo Science and Technology
+    (CUSAT), Kerala, 23-26 Novemeber 2021.
+-   Lecture in the QIP Workshop Computationally Designing of Materials 
+    for Materials Genome organized by Department of Chemistry, 
+    IIT Indore, March 1-6 2021.
+-   Science Academies sponsored Refresher Course oN “Theoretical and 
+    Computational Chemistry” Organized by PG & Research Department of 
+    Chemistry, PSGR Krishnammal College for Women, Coimbatore, 
+    Tamil NadU, Feb 8-11 2021.
+-   Workshop on Computaitonal Chemistry at Srinivasa Ramanujan 
+    Institute for Basic Sciences, Kerala, 9 October 2020.
+-   Webinar Lecture Series, Lecture -7 at Department of Chemistry, 
+    Kashmir University, 7 Oct 2020.
 -   Organised TEQIP workshop on "Applications of Computers in Chemistry"
     in March 2020 jointly with Dr. S. Mishra.
 -   Application of Computational Methods in Modern Sciences, Bajkul M

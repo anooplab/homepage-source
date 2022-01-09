@@ -4,13 +4,57 @@ date: 2020-04-23T23:03:46+05:30
 draft: false
 ---
 
+1.  "Effect of ancillary ligand on DNA and protein interaction 
+    of the two Zn (II) and Co (III) complexes: experimental and 
+    theoretical study"
+    Manik Dasa, Paola Brandao, Soumya Sundar Mati, Saikat Roy,
+    Anakuthil Anoop, Anjima James, Susmita De, Uttam Kumar Das, 
+    Soumik Laha, Jisu Mondal, Bidhan Chandra Samanta, and Tithi Maity
+    [*Journal of Biomolecular Structure and Dynamics*, **2021**, 
+    doi: 10.1080/07391102.2021.2001377
+    ](https://doi.org/10.1080/07391102.2021.2001377)
+1.  " BAl4Mg−/0/+: Global Minima with a Planar Tetracoordinate or 
+    Hypercoordinate Boron Atom"
+    Maya Khatun, Saikat Roy, Sandip Giri, Sasanka Sankhar Reddy CH, Anakuthil
+    Anoop, and Venkatesan S. Thimmakondu
+    [*Atoms*, **2021**, *9(4)*, 89; doi:10.3390/atoms9040089 ](https://doi.org/10.3390/atoms9040089)
+1.  "Organomagnesium Crown Ethers and Their Binding Affinities 
+    with Li+, Na+, K+, Be2+, Mg2+, and Ca2+ Ions – 
+    A Theoretical Study"
+    Saikat Roy, Dr. Krishnan Thirumoorthy, Dr. Uday Kumar Padidela, 
+    Pothiappan Vairaprakash, Anakuthil Anoop, 
+    Venkatesan S. Thimmakondu
+    [*Chemistry Select*, **2021**, doi:10.1002/slct.202102317
+    ](https://doi.org/10.1002/slct.202102317)
+1.  “Iridium(III)-Catalyzed Intermolecular Mild N-Arylation of 
+    Aliphatic Amides Using Quinoid Carbene: A Migratory 
+    Insertion-Based Approach”
+    Satabdi Bera, Saikat Roy, Shyam Chand Pal, Anakuthil Anoop, 
+    and Rajarshi Samanta,
+    [*ACS Catalysis*, **2021**, doi: 10.1021/acscatal.1c02653
+    ](https://doi.org/10.1021/acscatal.1c02653)
+1.  “Role of atomicity in the oxygen reduction reaction activity
+    of platinum sub nanometer clusters: A global optimization study”
+    Akhil S. Nair, Anakuthil Anoop, Rajeev Ahuja, Biswarup Pathak,
+    [*Journal of Computational Chemistry*, **2021**, *42*, 27,
+    1944-1958](https://doi.org/10.1002/jcc.26725)
+1.  "CAl4Mg^{0/−}: Global Minima with a Planar Tetracoordinate
+    Carbon Atom”, 
+    Nisha Job, Maya Khatun, Krishnan Thirumoorthy,
+    Sasanka Sankhar Reddy CH, Vijayanand Chandrasekaran,
+    Anakuthil Anoop, and Venkatesan S. Thimmakondu, 
+    [*Atoms*, **2021**, *9(2)*, 24](https://doi.org/10.3390/atoms9020024),
+1. "Detonation properties and impact sensitivities of trinitromethane 
+    derivatives of three-membered heterocyclic ring compounds"
+    Rahana Ameen, Fasila P.M, Anakuthil Anoop, Biju A.R
+    [*Journal of Molecular Graphics and Modelling*, 
+    **2021**,*105*, 107863](https://doi.org/10.1016/j.jmgm.2021.107863)
 1.  "A Natural Alkaloid, β-Carboline, as a One- and Two-Photon
     Responsive Fluorescent Photoremovable Protecting Group: Sequential
     Release of the Same or Different Carboxylic Acids" Antara Sikder, 
     Moumita Banerjee, Tara Singha, Saugat Mondal, P. K. Datta, Anakuthil 
     Anoop, and N. D. Pradeep Singh, [*Organic Letters*, **2020**, 22, 
     17, 6998–7002](https://doi.org/10.1021/acs.orglett.0c02549)
-
 1.  “Mononuclear Ruthenium-Based Water Oxidation Catalyst Supported by
     Anionic, Redox-Non-Innocent Ligand: Heterometallic O–O Bond
     Formation via Radical Coupling Pathway” Animesh Kundu, Suman Kr Dey,
@@ -312,3 +356,4 @@ draft: false
     Eluvathingal D. Jemmis [*Journal of the American Chemical Society*,
     **2002**, *124*, 16,
     4402-4407.](http://pubs.acs.org/doi/abs/10.1021/ja016843n)
+{: reversed="reversed"} 

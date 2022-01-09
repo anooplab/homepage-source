@@ -4,6 +4,11 @@ date: 2020-04-23T23:42:04+05:30
 draft: false
 ---
 
+-   International Conference on Emerging Trends in Chemical Scinences (EFCS
+    2021) organized by Farook College, Kerala, 29-31 October 2021.
+-   National Seminar on Recent Trends in Computational Chemistry-2021 
+    Organized by Somaiya Vidyavihar University, Mumabai, 
+    August 11-12 2021
 -   Recent Trends in Chemistry RTC2020, NIT Calicut Feb 26-29, 2020
 -   IC-CBSDD-2019, Berhampur Odisha, 8-10 March 2019
 -   Theoretical Chemistry Symposium 2019, BITS Pilani, 16-19 Feb 2019,
