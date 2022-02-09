@@ -4,6 +4,22 @@ date: 2020-04-23T23:03:46+05:30
 draft: false
 ---
 
+1.  "Stereochemistry of the Benzylidene γ-Butyrolactone 
+    Dictates the Reductive Heck Cyclization Mode in the 
+    Asymmetric Synthesis of Aryltetralin Lignans: A 
+    Detailed Experimental and Theoretical Study"
+    Biswajit Sen, Saikat Roy, Sujay Garai, Sayan Roy, 
+    Anakuthil Anoop, and Saumen Hajra,
+    [*The Journal of Organic Chemistry*. **2022**,
+    doi: 10.1021/acs.joc.1c02174
+    ](https://doi.org/10.1021/acs.joc.1c02174)
+1.  "Switching photorelease to singlet oxygen generation by 
+    oxygen functionalization of phenothiazine photocages"
+    Mamata Ojha, Moumita Banerjee, Souvik Ray, Amit Kumar 
+    Singh, Anakuthil Anoop and N. D. Pradeep Singh,
+    [*Chemical Communications*, **2022**, 
+    doi: 10.1039/D1CC06950K
+    ](https://doi.org/10.1039/D1CC06950K)
 1.  "Effect of ancillary ligand on DNA and protein interaction 
     of the two Zn (II) and Co (III) complexes: experimental and 
     theoretical study"
