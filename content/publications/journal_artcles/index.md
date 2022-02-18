@@ -4,6 +4,13 @@ date: 2020-04-23T23:03:46+05:30
 draft: false
 ---
 
+1.  "Oxygenolysis of a series of copper(II)-flavonolate 
+    adducts varying the electronic factors on supporting 
+    ligands as a mimic of quercetin 2,4-dioxygenase-like 
+    activity"
+    Nirmalya Podder, Subhasis Dey, Anakuthil Anoop and Sukanta Mandal,
+    [*Dalton Transactions*, **2022**,
+    doi: 10.1039/D1DT04151G](https://doi.org/10.1039/D1DT04151G)
 1.  "Stereochemistry of the Benzylidene γ-Butyrolactone 
     Dictates the Reductive Heck Cyclization Mode in the 
     Asymmetric Synthesis of Aryltetralin Lignans: A 
@@ -29,7 +36,7 @@ draft: false
     [*Journal of Biomolecular Structure and Dynamics*, **2021**, 
     doi: 10.1080/07391102.2021.2001377
     ](https://doi.org/10.1080/07391102.2021.2001377)
-1.  " BAl4Mg−/0/+: Global Minima with a Planar Tetracoordinate or 
+1.  "BAl4Mg<sup>−/0/+</sup>: Global Minima with a Planar Tetracoordinate or 
     Hypercoordinate Boron Atom"
     Maya Khatun, Saikat Roy, Sandip Giri, Sasanka Sankhar Reddy CH, Anakuthil
     Anoop, and Venkatesan S. Thimmakondu
@@ -83,8 +90,9 @@ draft: false
     Yogeswara Rao, Anakuthil Anoop, [*The Journal of Physical Chemistry
     C* **2020**, *124(1)* pp
     582-593](https://doi.org/10.1021/acs.jpcc.9b09316)
-1.  “A Global Optimizer for Nanoclusters” , [Maya Khatun, Rajat Shubhro
-    Majumdar, Anakuthil Anoop *Frontiers in Chemistry* **2019**, 
+1.  “A Global Optimizer for Nanoclusters” ,
+    Maya Khatun, Rajat Shubhro Majumdar, Anakuthil Anoop 
+    [*Frontiers in Chemistry* **2019**, 
     644](https://www.frontiersin.org/articles/10.3389/fchem.2019.00644/abstract)
 1.  “Density Functional Theory Study on the Formation of the Active
     Catalysts in Palladium Catalysed Reactions” in the Special Issue on

@@ -22,7 +22,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # nofollowLinks = true
 
 [taxonomies]
-  tag = "tags"
+  tag = "anakuthil anoop ayyappan Associate Professor iitkgp computaional chemistry IIT Kharagpur Indian Institute of Technology prebiotic nanocluster PyAR"
   # Categories are disabled by default.
 
 [params]
@@ -32,7 +32,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  # description = ""
+  description = "Anakuthil Anoop Ayyappan is a faculty in chemistry at IIT Kharagpur. The research focus are prebiotic chemistry and atomic cluster modelling and developing softwares for this purpose"
   # images = [""]
   themeColor = "#494f5c"
 
