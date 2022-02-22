@@ -4,6 +4,12 @@ date: 2020-04-23T23:03:46+05:30
 draft: false
 ---
 
+1.  "Relativistic Effects in Platinum Nanocluster Catalysis: 
+    A Statistical Ensemble-Based Analysis"
+    Akhil S. Nair, Anakuthil Anoop, Rajeev Ahuja, and Biswarup Pathak
+    [*The Journal of Physical Chemistry*, **2022**,
+    doi:10.1021/acs.jpca.1c09981
+    ](https://doi.org/10.1021/acs.jpca.1c09981)
 1.  "Oxygenolysis of a series of copper(II)-flavonolate 
     adducts varying the electronic factors on supporting 
     ligands as a mimic of quercetin 2,4-dioxygenase-like 
