@@ -1,4 +1,4 @@
-baseURL = "http://www.chemistry.iitkgp.ac.in_~anoop"
+baseURL = "https://anooplab.in/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Anoop Ayyappan"
@@ -10,10 +10,10 @@ pygmentsUseClasses  = true
 rssLimit = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "G-HS5FM7VK38"
 # disqusShortname = "yourdiscussshortname"
 
-[author]
+[params.author]
   name = "Anoop A"
 
 [blackfriday]
@@ -32,11 +32,11 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Anakuthil Anoop Ayyappan is a faculty in chemistry at IIT Kharagpur. The research focus are prebiotic chemistry and atomic cluster modelling and developing softwares for this purpose"
+  description = "Welcome to the homepage of Anakuthil Anoop Ayyappan, Associate Professor in the Department of Chemistry at IIT Kharagpur. Our research delves into the exciting realm of prebiotic chemistry and atomic cluster modeling using computational chemistry, creating software solutions on the way to help these research."
   # images = [""]
   themeColor = "#494f5c"
 
-  homeSubtitle = "Welcome to the homepage"
+  homeSubtitle = "Welcome to my online home - learn about me, my research and publications, and meet my team"
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
 
@@ -57,7 +57,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # Check https://github.com/Track3/hermit#social-icons for more info.
   [[params.social]]
     name = "twitter"
-    url = "https://twitter.com/anooplab"
+    url = "https://twitter.com/A_Anoop_A"
 
   [[params.social]]
     name = "github"
@@ -70,6 +70,10 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   [[params.social]]
     name = "linkedin"
     url = "https://www.linkedin.com/in/anoop-a-9286125/"
+
+  [[params.social]]
+    name = "email"
+    url = "mailto:anoop@chem.iitkgp.ac.in"
 
 [menu]
 

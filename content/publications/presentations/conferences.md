@@ -4,6 +4,17 @@ date: 2020-04-23T23:42:04+05:30
 draft: false
 ---
 
+-   National Seminar & Discussion Meeting on Simulations in Polymers,
+    Materials, and Biomolecules: Academia and Industry Perspectives
+    22-24 June, 2023 organized by Somaiya Vidtavihar University, 
+    Mumbai
+-   National Seminar on Recent Advances in Chemical Sciences organized by
+    School of Chemical Sciences, M. G. University, 3-4 April 2023
+-   International Conference on Systems and Processes in Physics, 
+    Chemistry and Biology (ICSPPCB-2023) organized by Assam University 
+    Silchar, Assam, 2-5 March 2023
+-   International Conference on Designing Catalysts on Computer (DCC22)
+    organized by IACS Kolkata, 2-3 December 2022
 -   International Conference on Emerging Trends in Chemical Scinences (EFCS
     2021) organized by Farook College, Kerala, 29-31 October 2021.
 -   National Seminar on Recent Trends in Computational Chemistry-2021 

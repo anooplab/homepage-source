@@ -897,3 +897,9 @@ hr.post-end {
     right: 1.2em;
   }
 }
+code.has-jax {
+    -webkit-font-smoothing: antialiased;
+    background: inherit;
+    border: none;
+    font-size: 100%;
+}
