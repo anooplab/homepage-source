@@ -7,14 +7,11 @@ images:
 
 ## PhD Students
 
-*   Subhasis Dey
-*   Lazumla Sherpa
-*   Sunanda Panda
-*   Moumita Banerjee
-*   Pratik Sarkar
-*   Sandip Giri
+*   Lazumla Sherpa (Jointly with Prof. S. Bandhyopadyay)
+*   Pratik Sarkar (Jointly with Prof. Sukanta Mandal)
+*   Sandip Giri (Jointly with Prof. Ganesan Mani)
 *   Arpita Poddar (Jointly with Prof. P. K. Charraraj)
-*   Sayan Paul
+*   Sayan Paul (Jointly with Prof. N. D. Pradeep Singh)
 *   Bhrigu Chakraborty (Jointly with Prof. P. K. Charraraj)
 
 ![Group Photo](../images/Group_photo_1.jpg)
@@ -22,11 +19,6 @@ images:
 <img src="../images/Group_photo_1.jpg" alt="Description" width="500" />
 
 
-## MSc Students
- 
-*  Neeladitya Chowdhuri
-*  Divyangna Sharma
-*  Sahil Das
  
  
 ## Former Members
@@ -36,16 +28,24 @@ images:
 ### PhD
 
 *   Dr. Saibal Jana
-*   Dr. Subhajit Mandal
+*   Dr. Subhajit Mandal (Jointly with Prof. P. K. Chattaraj)
 *   Dr. Surajit Nandi
 *   Dr. Davaluri Yogeswara Rao
 *   Dr. Eshani Das
 *   Dr. Maya Khatun
 *   Dr. Saikat Roy
+*   Dr. Sunanda Panda (Jointly with Dr. Kiran Gore)
+*   Dr. Moumita Banerjee (Jointly with Prof. N. D. Pradeep Singh)
+
+
+*   Subhasis Dey
 *   Tanwi Debnath
 
 ### MSc
 
+*   Neeladitya Chowdhuri
+*   Divyangna Sharma
+*   Sahil Das
 *   Devesh Avasthi
 *   Sumit Nath
 *   Rajkumar
@@ -55,11 +55,11 @@ images:
 *   Kamal Singh Nayal
 *   Rajat S. Majumder
 *   Shubham Bhatt
-*   Debankur Bhattacharyya
+*   Dr. Debankur Bhattacharyya
 *   Rishabh Upadhyay
 *   Susovan Ghosh
 *   Ved Agnihotri
-*   Viki Kumar Prasad
+*   Dr. Viki Kumar Prasad
 *   Rekha Banasal
 *   Ayushi Maheswari
 *   Anurag Sharma

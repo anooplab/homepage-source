@@ -24,12 +24,13 @@ draft: false
 
 ## Subject Editor/Associate Editor
 
+*    Journal of Molecular Graphics and Modelling
 *    Indian Journal of Chemistry
-*    [Frontiers in Chemistry](https://www.frontiersin.org/journals/chemistry/sections/theoretical-and-computational-chemistry/editors)
 
 ## Professional Experience
 
-*    Since 2016 Associate Professor at Indian Institute of Technology Kharagpur
+*    2023 - present Professor at Kerala Digital University
+*    2016 - 20223 Associate Professor at Indian Institute of Technology Kharagpur
 *    2012 June-July - Visiting Professor at Collaborative Research Centre (SFB858), University of Muenster, Germany
 *    2010 - 2016 Assistant Professor at Indian Institute of Technology Kharagpur
 *    2009-2010 - Post-Doctoral Fellow with Prof. Frank Neese at the Institute for Physical and Theoretical Chemistry, University of Bonn, Germany.  Topic: Computational study of asymmetric hydrogenation using Local Correlation methods; Titanocene catalyzed ring opening reactions of epoxides and oxaphosphiranes.
