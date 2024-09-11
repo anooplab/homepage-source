@@ -53,7 +53,7 @@ images:
 *   Sayan Paul
 *   Aurodeep Panda
 *   Kamal Singh Nayal
-*   Rajat S. Majumder
+*   Dr. Rajat S. Majumder
 *   Shubham Bhatt
 *   Dr. Debankur Bhattacharyya
 *   Rishabh Upadhyay
