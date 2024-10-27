@@ -6,10 +6,10 @@ draft: false
 
 Topics of current interest:
 
-*    Computational exploration of Prebiotic reactions.[1-3]
-*    Structural evolution of atomic and nanoclusters.[4-5]
-*    [Software](http://www.chemistry.iitkgp.ac.in/~anoop/publications/software/pyar/) development for automated identification of: a) reaction paths[1], and complex structures[4].
-*    Developing automated workflows to study complex reactions.[6]
+*    Computational exploration of Prebiotic reactions.[1-4]
+*    Structural evolution of atomic and nanoclusters.[5-7]
+*    [Software](http://www.chemistry.iitkgp.ac.in/~anoop/publications/software/pyar/) development for automated identification of: a) reaction paths[1], and complex structures[5].
+*    Developing automated workflows to study complex reactions.[8]
 
 References
 
@@ -33,19 +33,34 @@ References
     DOI: 10.1021/acsearthspacechem.3c00113
     ](https://doi.org/10.1021/acsearthspacechem.3c00113)
 
-4.  “A Global Optimizer for Nanoclusters” ,
+4.  “Potential Prebiotic Pathways in Extraterrestrial Atmosphere: 
+    A Computational Exploration of HCN and NH3 Reactions”,
+    Sunanda Panda, Anakuthil Anoop, 
+    [*ACS Earth and Space Chemistry*, **2024**, *8*, 2, 348–360
+    ](https://doi.org/10.1021/acsearthspacechem.3c00321), 
+    DOI:10.1021/acsearthspacechem.3c00321
+
+
+5.  “A Global Optimizer for Nanoclusters” ,
     Maya Khatun, Rajat Shubhro Majumdar, Anakuthil Anoop 
     [*Frontiers in Chemistry* **2019**, 
     644](https://www.frontiersin.org/articles/10.3389/fchem.2019.00644/abstract)
 
-5.  "Nanoclusters and Nanoalloys of Group 13 Elements (B, Al, and Ga): 
+6.  "Nanoclusters and Nanoalloys of Group 13 Elements (B, Al, and Ga): 
     Benchmarking of Methods and Analysis of their Structures and Energies",
     Maya Khatun, Pratik Sarkar, Sunanda Panda, Lazumla T. Sherpa, and 
     Anakuthil Anoop [*Physical Chemistry Chemical Physics*, **2023**, 
     *25*, 19986 - 20000 
     DOI: 10.1039/D2CP05833B](https://doi.org/10.1039/D2CP05833B)
 
-6.  "Insights into the Active Catalyst Formation from Di-nuclear
+7.  "Performance of Density Functionals and Semiempirical 3c Methods 
+    for Small Gold–Thiolate Clusters"
+    Maya Khatun, Sayan Paul, Saikat Roy, Subhasis Dey, and Anakuthil Anoop
+    [*The Journal of Physical Chemistry A*, **2023**,  *127*, 10, 2242–2257.
+    DOI: 10.1021/acs.jpca.2c07561](https://doi.org/10.1021/acs.jpca.2c07561)
+
+
+8.  "Insights into the Active Catalyst Formation from Di-nuclear
     Palladium Acetate in Pd Catalyzed Coupling Reactions : A DFT study""
     Saikat Roy, Anakuthil Anoop
     [*The Journal of Physical Chemistry A*, **2022**, *126*, 46, 8562–8576
