@@ -5,12 +5,16 @@ draft: false
 mathjax: true
 ---
 
+1. "Computational Investigation of Meso-Substituted, Heavy Atom-Free BODIPY Derivatives as Photosensitizers: Insights
+   from TDDFT and Dynamics Studies",
+   Moumita Banerjee, Sandip Giri, Anakuthil Anoop,
+   [*Chemistry - An Asian Journal*, **2024**](https://doi.org/10.1002/asia.202401325), DOI: 10.1002/asia.202401325 
 
 1. “Asymmetric Total Synthesis of Naturally Occurring 
    (R)-2′-Methoxydihydroartemidin, (R)-(E)-3′-Hydroxyartemidin, and Its 
    Structural Congeners: Method Optimization and Mechanistic Analysis,”
    Swagata Das, Sayan Paul, Kishor Kumar Mandal, Anakuthil Anoop, and Samik Nanda,
-   [*The Journal of Organic Chemistry*, **2024**](https://pubs.acs.org/doi/10.1021/acs.joc.4c01868), DOI: 10.1021/acs.joc.4c01868
+   [*The Journal of Organic Chemistry*, **2024**, *89*, 21, 15764–15776](https://pubs.acs.org/doi/10.1021/acs.joc.4c01868), DOI: 10.1021/acs.joc.4c01868
 
 1. “Rh(III)-Catalyzed Chemoselective [4 + 2] Annulations for the Synthesis of 
    [1,3]Oxazinoindolones: A Combined Experimental and Computational Study,”
@@ -25,7 +29,7 @@ mathjax: true
     Ranabir Majumder, Shreya Banerjee, Sayan Paul, Saugat Mondal, 
     Madhurima Mandal, Priya Ghosh, Debjit Maity, Anakuthil Anoop, 
     N. D. Pradeep Singh, and Mahitosh Mandal, 
-    [*Journal of Chemical Information and Modeling*, **2024**,](https://pubs.acs.org/doi/10.1021/acs.jcim.4c01104) 
+    [*Journal of Chemical Information and Modeling*, **2024**, *64*, 14, 5580–5589](https://pubs.acs.org/doi/10.1021/acs.jcim.4c01104) 
     DOI: 10.1021/acs.jcim.4c01104
 
 1.  “Structure of Small Yttrium Monoxide Clusters, Chemical 
@@ -33,7 +37,7 @@ mathjax: true
     and Density Functional Theory Investigations”, 
     Varun Vinayak Deshpande, Vaibhav Chauhan, Debashis Bandyopadhyay, 
     Anakuthil Anoop and Soumen Bhattacharyya, 
-    [*Physical Chemistry Chemical Physics*, **2024**,](https://dx.doi.org/10.1039/D4CP02351J) 
+    [*Physical Chemistry Chemical Physics*, **2024**, *26*, 20123-20133 ](https://dx.doi.org/10.1039/D4CP02351J) 
     DOI: 10.1039/D4CP02351J
 
 1.  “Boosting CPL and Decagram-Scale Mechanochemistry Synthesis 
@@ -90,7 +94,7 @@ mathjax: true
     Free Radicals in the Solid State",
     Subhajit Saha, Sudipta Khamrui, Rajib Moi, Anakuthil Anoop, 
     Vladimir V. Chernyshev, Debamalya Banerjee, and Kumar Biradha,
-    [*ACS Applied Optical Materials*, **2023**, XXXX, XXX, XXX-XXX,
+    [*ACS Applied Optical Materials*, **2023**, *1*, 12, 2031–2041
     DOI: 10.1021/acsaom.3c00337
     ](https://doi.org/10.1021/acsaom.3c00337)
 
