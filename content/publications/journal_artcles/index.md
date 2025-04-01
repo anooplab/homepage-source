@@ -5,6 +5,19 @@ draft: false
 mathjax: true
 ---
 
+1. "Lattice Modulation on Singlet-Triplet Splitting of Silver Cluster Boosting Near-Unity Photoluminescence Quantum
+    Yield"
+   Wei-Dong Tian, Chengkai Zhang, Sayan Paul, Wei-Dan Si, Prof. Zhi Wang, Pan-Pan Sun, Prof. Anakuthil Anoop, Prof. Chen-Ho Tung, Prof. Di Sun
+   [*Angewandte Chemie International Edition*, **2025**, *64* (11), e202421656](https://doi.org/10.1002/anie.202421656) 
+
+1. "Exploring the Conformational Space of a Sulfonyl-Based Ionic Liquid on Platinum-Based Mono and Bimetallic Surfaces"
+   Arka Prava Sarkar, Rahul Sahu, Sandip Giri, Anakuthil Anoop, Sandeep K. Reddy
+   [*Langmuir*, **2025**, DOI: 10.1021/acs.langmuir.4c03883](https://doi.org/10.1021/acs.langmuir.4c03883)
+
+1. "Lattice Modulation on Singlet-Triplet Splitting of Silver Cluster Boosting Near-Unity Photoluminescence Quantum Yield."
+   Wei-Dong Tian, Chengkai Zhang, Sayan Paul, Wei-Dan Si, Zhi Wang, Pan-Pan Sun, Anakuthil Anoop, Chen-Ho Tung, Di Sun
+  [*Angewandte Chemie International Edition*, e202421656. DOI: 10.1002/anie.202421656](https://doi.org/10.1002/anie.202421656)
+
 1. "Computational Investigation of Meso-Substituted, Heavy Atom-Free BODIPY Derivatives as Photosensitizers: Insights
    from TDDFT and Dynamics Studies",
    Moumita Banerjee, Sandip Giri, Anakuthil Anoop,

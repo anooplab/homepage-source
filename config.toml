@@ -93,8 +93,8 @@ googleAnalytics = "G-HS5FM7VK38"
     weight = 30
 
   [[menu.main]]
-    name = "Presentations"
-    url = "presentations/"
+    name = "Conferences"
+    url = "conferences/"
     weight = 40
 
   [[menu.main]]

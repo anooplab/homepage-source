@@ -10,9 +10,9 @@ images:
 *   Lazumla Sherpa (Jointly with Prof. S. Bandhyopadyay)
 *   Pratik Sarkar (Jointly with Prof. Sukanta Mandal)
 *   Sandip Giri (Jointly with Prof. Ganesan Mani)
-*   Arpita Poddar (Jointly with Prof. P. K. Charraraj)
+*   Arpita Poddar (Jointly with Prof. P. K. Chattaraj)
 *   Sayan Paul (Jointly with Prof. N. D. Pradeep Singh)
-*   Bhrigu Chakraborty (Jointly with Prof. P. K. Charraraj)
+*   Bhrigu Chakraborty (Jointly with Prof. P. K. Chattaraj)
 
 ![Group Photo](../images/Group_photo_1.jpg)
 
