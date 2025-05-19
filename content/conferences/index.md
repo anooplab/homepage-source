@@ -4,6 +4,10 @@ date: 2024-10-24T11:29:04+05:30
 draft: false
 ---
 
+- Emerging Frontiers in Chemical Sciences (EFCS 2025), May 1-3 2025, Farook College, Kozhikkode
+
+- 11th Conference of Asia-Pacific Association of Theoretical and Computational Chemists (APATCC11), Kobe International Conference Center, Kobe, Hyogo, Japan,  21 to 25 April 2025.
+
 - Hands on Training on Computational Chemistry using Free (Open-source) Softwares, 3-4 March 2025, Sree Sankara College
   Kalady
 
