@@ -5,6 +5,13 @@ draft: false
 mathjax: true
 ---
 
+1. "Hydrogen Bond-Assisted Excited State Switching and Fluoride Responsive Behavior 
+    of Orthogonal Spiroborate Ester Derived from Naturally Occurring α-Mangostin"
+    Swathy Unnikrishnapillai Saraswathy, Lekshmi Chandranpillai Lalithabai, 
+    Sandip Giri, Safa Ayoob, Simimole Haleema, Anakuthil Anoop, 
+    Sumalekshmy Sarojiniamma,
+    [**European Journal of Organic Chemistry**, Volume 28, Issue 21, e202401411](https://doi.org/10.1002/ejoc.202401411)
+
 1. "Lattice Modulation on Singlet-Triplet Splitting of Silver Cluster Boosting Near-Unity Photoluminescence Quantum
     Yield"
    Wei-Dong Tian, Chengkai Zhang, Sayan Paul, Wei-Dan Si, Zhi Wang, Pan-Pan Sun, Anakuthil Anoop, Chen-Ho Tung, Di Sun
