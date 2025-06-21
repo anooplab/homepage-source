@@ -27,17 +27,15 @@ images:
 
 ### PhD
 
-*   Dr. Saibal Jana
-*   Dr. Subhajit Mandal (Jointly with Prof. P. K. Chattaraj)
-*   Dr. Surajit Nandi
-*   Dr. Davaluri Yogeswara Rao
-*   Dr. Eshani Das
-*   Dr. Maya Khatun
-*   Dr. Saikat Roy
-*   Dr. Sunanda Panda (Jointly with Dr. Kiran Gore)
-*   Dr. Moumita Banerjee (Jointly with Prof. N. D. Pradeep Singh)
-
-
+*   [Dr. Saibal Jana](https://www.int.kit.edu/staff_7373.php)
+*   [Dr. Subhajit Mandal](https://scholar.google.com/citations?user=MkiKY0kAAAAJ) (Jointly with Prof. P. K. Chattaraj)
+*   [Dr. Surajit Nandi](https://scholar.google.com/citations?user=g7bAmuYAAAAJ)
+*   [Dr. Davaluri Yogeswara Rao](https://www.researchgate.net/profile/Davuluri-Yogeswara-Rao)
+*   [Dr. Eshani Das](https://chemistry.brown.edu/people/eshani-das)
+*   [Dr. Maya Khatun](https://www.jyu.fi/en/people/maya-khatun)
+*   [Dr. Saikat Roy](https://saikat248.github.io/)
+*   [Dr. Sunanda Panda](https://scholar.google.com/citations?hl=en&user=Ob_wY0EAAAAJ)
+*   [Dr. Moumita Banerjee](https://scholar.google.com/citations?hl=en&user=Ay6U1kAAAAAJ)
 *   Subhasis Dey
 *   Tanwi Debnath
 
@@ -59,7 +57,7 @@ images:
 *   Rishabh Upadhyay
 *   Susovan Ghosh
 *   Ved Agnihotri
-*   Dr. Viki Kumar Prasad
+*   [Dr. Viki Kumar Prasad](https://profiles.ucalgary.ca/viki-kumar-prasad)
 *   Rekha Banasal
 *   Ayushi Maheswari
 *   Anurag Sharma
