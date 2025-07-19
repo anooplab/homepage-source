@@ -5,6 +5,18 @@ draft: false
 mathjax: true
 ---
 
+1.  "Computational Investigation of Cytochrome P450-Catalyzed Oxetane Formation 
+    in Taxol Biosynthesis"
+    Surajit Nandi, Rohan Sharma, Subhajit Mandal, Pankaz K. Sharma, 
+    Parayil Kumaran Ajikumar, Anakuthil Anoop
+    [*Biochemistry*, **2025**, DOI: 10.1021/acs.biochem.5c00175
+](https://doi.org/10.1021/acs.biochem.5c00175)
+
+1.  "Exploring the therapeutic potential of Zonisamide derivatives through 
+    molecular docking and dynamic studies with GABARAP"
+    Megha P Nambiar, Anakuthil Anoop, Biju AR,
+    [*Indian Journal of Biochemistry and Biophysics (IJBB)*, **2025**,  62(7), DOI: 10.56042/ijbb.v62i7.16596](https://doi.org/10.56042/ijbb.v62i7.16596)
+
 1. "Hydrogen Bond-Assisted Excited State Switching and Fluoride Responsive Behavior 
     of Orthogonal Spiroborate Ester Derived from Naturally Occurring α-Mangostin"
     Swathy Unnikrishnapillai Saraswathy, Lekshmi Chandranpillai Lalithabai, 
