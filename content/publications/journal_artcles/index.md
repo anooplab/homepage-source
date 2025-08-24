@@ -5,6 +5,11 @@ draft: false
 mathjax: true
 ---
 
+1.  "Bonding and Stability in Six-Atom Nanoclusters of Boron, 
+    Aluminum, and Gallium"
+    Maya Khatun, Pratik Sarkar, Sunanda Panda, and Anakuthil Anoop,
+    [*Polyhedron*, **2025**. *281*, 117703](https://doi.org/10.1016/j.poly.2025.117703)
+
 1.  "Computational Investigation of Cytochrome P450-Catalyzed Oxetane Formation 
     in Taxol Biosynthesis"
     Surajit Nandi, Rohan Sharma, Subhajit Mandal, Pankaz K. Sharma, 
