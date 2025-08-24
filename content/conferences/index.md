@@ -4,6 +4,9 @@ date: 2024-10-24T11:29:04+05:30
 draft: false
 ---
 
+- Recent Advances in Chemical Sciences 2025, August 21-23, School of Chemical Sciences, Mahatma Gandhi University,
+  Kottayam , Kerala.
+
 - Emerging Frontiers in Chemical Sciences (EFCS 2025), May 1-3 2025, Farook College, Kozhikkode
 
 - 11th Conference of Asia-Pacific Association of Theoretical and Computational Chemists (APATCC11), Kobe International Conference Center, Kobe, Hyogo, Japan,  21 to 25 April 2025.
