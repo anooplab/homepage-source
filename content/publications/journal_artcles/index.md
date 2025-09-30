@@ -5,6 +5,10 @@ draft: false
 mathjax: true
 ---
 
+1. "Computational Exploration of Small Hydrocarbon Networks: A Stochastic Generation and DFT Refinement Framework."
+   Sandip Giri, Sayon Satpati, Tarun Roy, Subhas Ghosal, Anakuthil Anoop,
+   [*Journal of Computational Chemistry*, **2025**, *46(25)*, e70236.](https://doi.org/10.1002/jcc.70236)
+
 1.  "Bonding and Stability in Six-Atom Nanoclusters of Boron, 
     Aluminum, and Gallium"
     Maya Khatun, Pratik Sarkar, Sunanda Panda, and Anakuthil Anoop,
