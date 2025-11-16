@@ -4,7 +4,7 @@ date: 2020-04-23T22:33:57+05:30
 draft: false
 ---
 
-![Me](../images/anoop.png)
+![Me](../images/anoop.png){ width=250px }
 
 ## Online Profiles
 
@@ -29,7 +29,7 @@ draft: false
 
 ## Professional Experience
 
-*    2023 - present Professor at Kerala Digital University
+*    2023 - present Professor at Digital University Kerala
 *    2016 - 20223 Associate Professor at Indian Institute of Technology Kharagpur
 *    2012 June-July - Visiting Professor at Collaborative Research Centre (SFB858), University of Muenster, Germany
 *    2010 - 2016 Assistant Professor at Indian Institute of Technology Kharagpur
