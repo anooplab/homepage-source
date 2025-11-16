@@ -5,6 +5,11 @@ draft: false
 mathjax: true
 ---
 
+1. "Computational discovery of high-performance B–Al–Ga nanoclusters i
+   for oxygen reduction reaction catalysis"
+   Pratik Sarkar, Maya Khatun and  Anakuthil Anoop,    
+   [*Physical Chemistry Chemical Physics*, **2025**, * *, ](https://doi.org/10.1039/D5CP03587B )
+
 1. "Computational Exploration of Small Hydrocarbon Networks: A Stochastic Generation and DFT Refinement Framework."
    Sandip Giri, Sayon Satpati, Tarun Roy, Subhas Ghosal, Anakuthil Anoop,
    [*Journal of Computational Chemistry*, **2025**, *46(25)*, e70236.](https://doi.org/10.1002/jcc.70236)
